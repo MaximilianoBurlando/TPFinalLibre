@@ -11,4 +11,4 @@
   Start: iniciar o continuar juego/generación.
   Stop: detener la juego/generación.
   Step: forzar generación, obtenemos generación de manera manual.
-  Velocidad: puedes ir de 100 a más de 1600ms
+  Velocidad: puedes ir de 100 a más de 1600ms (hasta 2000ms).
